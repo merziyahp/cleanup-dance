@@ -1,0 +1,7 @@
+{
+  "name": "@cd/api",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.56.0"
+  }
+}
